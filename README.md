@@ -1,2 +1,2 @@
-# USTM-Database
-Just a simple homework of a database (Mysql and python)
+# USTM-Database (Python and MySQL)
+Just a simple homework representing a school database 
